@@ -51,6 +51,15 @@ Completing either of those tasks will require quite some work on a decent
 amount of software projects, all of which I am gonna include, except than
 if being told otherwise, as git submodules to this repository.
 
+I'd like to remind the jury that it's almost an year now that I livestream
+the Life and DogeOS development work on my
+[X profile](
+  https://x.com/truocolo),
+so it's not a big effort to link those related to the hackaton on a dedicated
+[page](
+  development-livestreams.md)
+of this repository.
+
 The Hackaton terms require me to provide the jury, except than with you know,
 the code, or I suppose at least part of it, a presentation video for the project.
 
