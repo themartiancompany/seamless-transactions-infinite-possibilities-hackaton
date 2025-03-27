@@ -58,7 +58,14 @@ I am including in the repo a placeholder video which will be replaced
 with the real one before that date:
 
 <video
-  src="https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton/blob/main/project-presentation-video.mp4" />
+  width=640
+  height=360
+  controls>
+  <source
+    src="https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton/blob/main/project-presentation-video.mp4"
+    type="video/mp4">
+Maybe you should update your browser.
+</video>
 
 ### Licenses
 
