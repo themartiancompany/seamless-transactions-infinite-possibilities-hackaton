@@ -62,7 +62,7 @@ with the real one before that date:
   height=360
   controls>
   <source
-    src="https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton/blob/main/project-presentation-video.mp4"
+    src="https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton/raw/refs/heads/main/project-presentation-video.mp4"
     type="video/mp4">
 Maybe you should update your browser.
 </video>
