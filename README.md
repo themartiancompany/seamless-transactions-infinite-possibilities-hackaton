@@ -71,8 +71,8 @@ but honestly it's quite bothersome reading e-mails like
 'thanks for your submission' or pressing 'submit's buttons.
 
 I think using that language is borderline acceptable for any latin-language
-speaker and I'd like for its usage to disappear, as the tech environment
-is already an huge pile of trash, and that only adds to it.
+speaker and I'd like it stopped being used altogether, as the tech
+environment is already an huge pile of trash, and that only adds to it.
 
 ### Licenses
 
