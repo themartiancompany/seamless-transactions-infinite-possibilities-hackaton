@@ -57,15 +57,8 @@ with managing all the work, the Project's details and everything,
 I am including in the repo a placeholder video which will be replaced
 with the real one before that date:
 
-<video
-  width="640"
-  height="360"
-  controls>
-  <source
-    src="https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton/raw/refs/heads/main/project-presentation-video.mp4"
-    type="video/mp4">
-Maybe you should update your browser.
-</video>
+![project-presentation-video.gif](
+  "https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton/raw/refs/heads/main/project-presentation-video.mp4")
 
 ### Licenses
 
