@@ -57,8 +57,8 @@ with managing all the work, the Project's details and everything,
 I am including in the repo a placeholder video which will be replaced
 with the real one before that date:
 
-![placeholder video](
-  https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton/raw/refs/heads/main/project-presentation-video.mp4)
+<video
+  src="https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton/blob/main/project-presentation-video.mp4" />
 
 ### Licenses
 
