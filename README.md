@@ -20,11 +20,15 @@ I'm still not sure actually what I am gonna present for this competition,
 as the choice will mostly be determined by what I'll manage to finish
 to write in time by the 7th of April 2025.
 
-The requirements are for a product which will support the
-PayPal USD stablecoin and which will use the Google RPC
-service for connection.
+The requirements are for a product which supports and integrates the
+[PyUSD](
+  https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd)
+PayPal USD stablecoin and which provides network connectivity
+using the
+[Google Blockchain RPC service](
+  https://cloud.google.com/blockchain-rpc/docs/quickstart).
 
-That's kinda of a broad theme you know.
+So that's kinda of a broad theme you know.
 
 In any case it will probably be one of these two, or if I manage, both:
 
@@ -44,20 +48,21 @@ In any case it will probably be one of these two, or if I manage, both:
 I suppose I should specify I am the author of both the Ur and the EVMFS.
 
 Completing either of those tasks will require quite some work on a decent
-amount of software projects, which of course
-won't be appropriate to have hosted entirely here, if not in extremis
-as links or if anything, as git submodules.
+amount of software projects, all of which I am gonna include, except than
+if being told otherwise, as git submodules to this repository.
 
 The Hackaton terms require me to provide the jury, except than with you know,
 the code, or I suppose at least part of it, a presentation video for the project.
 
 If I am correct I have available until the 7th of April to present
-both of them. So, to speed up things and make myself more comfortable
-with managing all the work, the Project's details and everything,
-I am including in the repo a placeholder video which will be replaced
+everything. So, to speed up things and make myself more comfortable
+with managing the tasks,
+I am including the following placeholder video which will be replaced
 with the real one before that date:
 
+
 [![Project's Presentation video](project-presentation-video.gif)]("https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton/blob/main/project-presentation-video.mp4")
+
 
 ### Licenses
 
