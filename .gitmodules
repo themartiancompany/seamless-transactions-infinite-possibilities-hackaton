@@ -1,0 +1,6 @@
+[submodule "ur"]
+	path = ur
+	url = https://github.com/themartiancompany/ur
+[submodule "evmfs"]
+	path = evmfs
+	url = https://github.com/themartiancompany/evmfs
