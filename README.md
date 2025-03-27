@@ -58,7 +58,7 @@ I am including in the repo a placeholder video which will be replaced
 with the real one before that date:
 
 ![placeholder video](
-  project-presentation.mp4)
+  project-presentation-video.mp4)
 
 ### Licenses
 
