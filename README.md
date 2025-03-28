@@ -51,6 +51,11 @@ Completing either of those tasks will require quite some work on a decent
 amount of software projects, all of which I am gonna include, except than
 if being told otherwise, as git submodules to this repository.
 
+Notes for the first task are being gathered in the
+[Ur PYUSD support](
+  ur-pyusd-support.md)
+page.
+
 I'd like to remind the jury that it's almost an year now that I livestream
 the Life and DogeOS development work on my
 [X profile](
