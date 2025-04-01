@@ -77,17 +77,6 @@ with the real one before that date:
 
 [![Project's Presentation video](project-presentation-video.gif)]("https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton/blob/main/project-presentation-video.mp4")
 
-### Trivia notes
-
-I think Stack Up should stop using the word "submission" to say people
-have sent them work for examination. I understand it's common speech
-but honestly it's quite bothersome reading e-mails like
-'thanks for your submission' or pressing 'submit's buttons.
-
-I think using that language is borderline acceptable for any latin-language
-speaker and I'd like it stopped being used altogether, as the tech
-environment is already an huge pile of trash, and that only adds to it.
-
 ### Licenses
 
 All the projects I do write are usually released under the terms of the
