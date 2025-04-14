@@ -31,13 +31,28 @@ the hackaton is adding support for purchasing applications on the
 using the PayPal USD stable-coin token on the Ethereum Virtual Machine (EVM)
 compatible blockchain networks supported by Google RPC service.
 
+While the role of the Google RPC service may seem marginal in this
+context be aware it has been not in the slightest, since after
+HoleSky out-of-sync event that provider has been the only one available
+to handle heavy Ur-related
+[EVMFS](
+  https://github.com/themartiancompany/evmfs)
+uploads.
+
 I suppose I should specify I am the author of both the Ur and the EVMFS.
 
-Completing either of those tasks will require quite some work on a decent
-amount of software projects, all of which I am gonna include, except than
-if being told otherwise, as git submodules to this repository.
+I am including as submodule to this source repository the most of
+the softwares and products I had to edit/write altogether in order
+to have the task completed.
 
-Notes for the first task are being gathered in the
+While task per-se has been actually completed, still some details
+needs further adjustments which will be provided in the next
+days, such as the
+[EVM Wallet](
+  https://github.com/themartiancompany/evm-wallet)
+ERC-20 transfer funds approval support.
+
+Detail notes can be found at the
 [Ur PYUSD support](
   ur-pyusd-support.md)
 page.
@@ -46,15 +61,15 @@ I'd like to remind the jury that it's almost an year now that I livestream
 the Life and DogeOS development work on my
 [X profile](
   https://x.com/truocolo),
-so it's not a big effort to link those related to the hackaton on a dedicated
+yet I've linked those strictly related to the hackaton on a dedicated
 [page](
   development-livestreams.md)
 of this repository.
 
+### Presentation video
+
 The Hackaton terms require me to provide the jury, except than with you know,
 the code, or I suppose at least part of it, a presentation video for the project.
-
-### Presentation video
 
 [![Project's Presentation video](project-presentation-video.gif)]("https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton/blob/main/project-presentation-video.mp4")
 
