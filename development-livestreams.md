@@ -1,8 +1,10 @@
 # Hackaton development livestreams
 
 In this document I'm gathering the Life and DogeOS
-public development video livestreams related to the hackaton
-work.
+public development video livestreams strictly related to the hackaton
+work. A meaningful amount DogeOS and Life development livestream
+spent still working on the same hackaton projects have
+been made available since mid-2024.
 
 I'd like to make the readers aware in case the videos
 were to disappear for any reason independent from my will
@@ -17,6 +19,52 @@ be currently browsed with the aid of a third-party centralized
 read directly from the blockchains on which the Twitter
 contract has been deployed or with the decentralized
 Twitter application.
+
+### 2025 April 10
+
+[Part 1](
+  https://x.com/truocolo/status/1910193024560136259)
+
+### 2025 April 9
+
+[Part 1](
+  https://x.com/truocolo/status/1910046814168027450)
+
+### 2025 April 8
+
+[Part 1](
+  https://x.com/truocolo/status/1909685608437449116)
+
+### 2025 April 7
+
+[Part 1](
+  https://x.com/truocolo/status/1909186167766933565)
+
+### 2025 April 4
+
+[Part 1](
+  https://x.com/truocolo/status/1908266364894064949)
+
+[Part 2](
+  https://x.com/truocolo/status/1908354422486298819)
+
+### 2025 April 3
+
+[Part 1](
+  https://x.com/truocolo/status/1908023958730838270)
+
+### 2025 April 2
+
+[Part 1](
+  https://x.com/truocolo/status/1907509084112433582)
+
+[Part 2](
+  https://x.com/truocolo/status/1907574966389735469)
+
+### 2025 March 29
+
+[Part 1](
+  https://x.com/truocolo/status/1906056682687406478)
 
 ### 2025 March 27
 
