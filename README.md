@@ -37,6 +37,11 @@ Completing either of those tasks will require quite some work on a decent
 amount of software projects, all of which I am gonna include, except than
 if being told otherwise, as git submodules to this repository.
 
+Notes for the first task are being gathered in the
+[Ur PYUSD support](
+  ur-pyusd-support.md)
+page.
+
 I'd like to remind the jury that it's almost an year now that I livestream
 the Life and DogeOS development work on my
 [X profile](
@@ -52,17 +57,6 @@ the code, or I suppose at least part of it, a presentation video for the project
 ### Presentation video
 
 [![Project's Presentation video](project-presentation-video.gif)]("https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton/blob/main/project-presentation-video.mp4")
-
-### Trivia notes
-
-I think Stack Up should stop using the word "submission" to say people
-have sent them work for examination. I understand it's common speech
-but honestly it's quite bothersome reading e-mails like
-'thanks for your submission' or pressing 'submit's buttons.
-
-I think using that language is borderline acceptable for any latin-language
-speaker and I'd like it stopped being used altogether, as the tech
-environment is already an huge pile of trash, and that only adds to it.
 
 ### Licenses
 
