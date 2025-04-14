@@ -4,3 +4,15 @@
 [submodule "evmfs"]
 	path = evmfs
 	url = https://github.com/themartiancompany/evmfs
+[submodule "evm-contracts-tools"]
+	path = evm-contracts-tools
+	url = github:themartiancompany/evm-contracts-tools
+[submodule "evm-transactions-tools"]
+	path = evm-transactions-tools
+	url = github:themartiancompany/evm-transactions-tools
+[submodule "evm-contracts-source-index"]
+	path = evm-contracts-source-index
+	url = github:themartiancompany/evm-contracts-source-index
+[submodule "evm-openpgp-keyserver"]
+	path = evm-openpgp-keyserver
+	url = github:themartiancompany/evm-openpgp-keyserver
