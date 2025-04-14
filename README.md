@@ -16,11 +16,7 @@ and
 
 ### The project
 
-I'm still not sure actually what I am gonna present for this competition,
-as the choice will mostly be determined by what I'll manage to finish
-to write in time by the 7th of April 2025.
-
-The requirements are for a product which supports and integrates the
+The hackaton requirements are for a product which supports and integrates the
 [PyUSD](
   https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd)
 PayPal USD stablecoin and which provides network connectivity
@@ -28,22 +24,12 @@ using the
 [Google Blockchain RPC service](
   https://cloud.google.com/blockchain-rpc/docs/quickstart).
 
-So that's kinda of a broad theme you know.
-
-In any case it will probably be one of these two, or if I manage, both:
-
-- adding support for purchasing applications on the
-  [uncensorable Ur Life and DogeOS user repository and application store](
-    https://github.com/themartiancompany/ur)
-  using the PayPal USD stable-coin token on the Ethereum Virtual Machine (EVM)
-  compatible blockchain networks supported by Google RPC service,
-
-- writing a full fledged uncensorable stand-alone web application for the
-  [Ethereum Virtual Machine File System](
-    https://github.com/themartiancompany/evmfs)
-  (EVMFS) which will allow users to cover the networks' gas fees for the uploads
-  using the PayPal USD stable-coin token on networks supported by the Google
-  RPC service.
+The task project time has chosen for me strictly related to
+the hackaton is adding support for purchasing applications on the
+[uncensorable Ur Life and DogeOS user repository and application store](
+  https://github.com/themartiancompany/ur)
+using the PayPal USD stable-coin token on the Ethereum Virtual Machine (EVM)
+compatible blockchain networks supported by Google RPC service.
 
 I suppose I should specify I am the author of both the Ur and the EVMFS.
 
@@ -63,12 +49,7 @@ of this repository.
 The Hackaton terms require me to provide the jury, except than with you know,
 the code, or I suppose at least part of it, a presentation video for the project.
 
-If I am correct I have available until the 7th of April to present
-everything. So, to speed up things and make myself more comfortable
-with managing the tasks,
-I am including the following placeholder video which will be replaced
-with the real one before that date:
-
+### Presentation video
 
 [![Project's Presentation video](project-presentation-video.gif)]("https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton/blob/main/project-presentation-video.mp4")
 
