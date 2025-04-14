@@ -68,19 +68,20 @@ of this repository.
 
 ### Presentation video
 
-The Hackaton terms require me to provide the jury, except than with you know,
-the code, or I suppose at least part of it, a presentation video for the project.
+The Hackaton terms require me to provide the jury a presentation video for the project.
+I've been kinda late producing that. The reason is pretty clear if
+you watched the rest of the livestreams and followed me on X.
+
+Anyway, since I've produced like full 24 hours of video content
+in two weeks, I hope the jury will allow me to consider valid
+the presentation video I'm gonna publish in the next hours.
+
+Below, there's the stub Rick Roll I had uploaded whan I've
+joined the Hackaton.
 
 [![Project's Presentation video](project-presentation-video.gif)]("https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton/blob/main/project-presentation-video.mp4")
 
 ### Licenses
 
-All the projects I do write are usually released under the terms of the
-GNU Affero General Public License version 3, but I'm not actually sure
-that license is allowed by the hackaton terms, so we'll see if I will
-have to release some work using a non-copyleft, less strict license,
-in particular because if I remember correctly, Google does not like
-much that license.
-
-I have sent an e-mail to the Stack Up team and I'm currently awaiting for
-an answer.
+All the projects I do write are released by Pellegrino Prevete
+under the terms of the GNU Affero General Public License version 3.
