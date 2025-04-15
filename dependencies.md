@@ -5,6 +5,10 @@ the direct or indirect software dependencies
 I had to write in order to complete the main
 task and of which I am the main or the only author.
 
+All together, these applications make
+dapps development virtually the same as
+the development of any other computer application.
+
 ### [Crash Bash](https://github.com/themartiancompany/crash-bash)
 
 I've written this application development Bash library a couple years
@@ -29,6 +33,15 @@ made available.
 The EVM Library contains a set of useful functions to
 write native computer applications interacting with
 EVM blockchain networks.
+
+### [EVM Make](https://github.com/themartiancompany/evm-make)
+
+The EVM Make program is a build dependency for
+libEVM programs. While on single-networks deployments
+contract artifacts and sources can be easily managed
+manually, this tool becomes a necessity when a libEVM
+application handles many smart contract versions
+over many networks all at once.
 
 ### [Aspe](https://github.com/themartiancompany/aspe)
 
@@ -72,7 +85,46 @@ users with a facility to host contracts' source code on-chain directly,
 so forcing them to rely on third party, centralized, network-specific
 blockchain network explorers.
 
+While apparently not a direct dependency, the Index is actually required
+in order to properly present for manual verification the source code
+for a novel currency token, for example the bridged PayPal stablecoin ERC-20,
+encountered while purchasing an Ur application.
+
 ### [Ethereum Virtual Machine Contracts' Tools](https://github.com/themartiancompany/evm-contracts-tools)
+
+Calls to `evm-contract-call` from the EVM Contracts' tools are used in
+all libEVM applications which do not implement a dedicated JavaScript
+program to communicate with the contract.
+
+The caller program is able to automatically retrieve the target
+contract source code, and so the needed contract artifacts from
+the Source Index to run it.
+
+While all libEVM programs such as the Ur should specify
+a default system-level network deployment together with
+the artifacts needed to run it, this feature is greatly
+useful when testing a new or a new version for a contract.
+
+Currently the Ur does not contain any application-specific JavaScript
+program and all contract calls are handled by `evm-contract-call`.
 
 ### [Ethereum Virtual Machine Transactions' Tools](https://github.com/themartiancompany/evm-transactions-tools)
 
+The EVM Transactions Tools are a dependency for the `evm-contract-deployer-get`
+program from the EVM Contract Tools, which is used to validate the Index provided
+deployent transaction in order to infer the contract deployer, whose
+self-published sources are the default Index source download target.
+
+### [Solidity Compiler](https://github.com/themartiancompany/solidity-compiler)
+
+Solidity compiler is a unified front-end for Solc and Hardhat, aiming at
+providing an user experience similar to the one of a C compiler.
+
+### [Ethereum Virtual Machine Deployer](https://github.com/themartiancompany/evm-deployer)
+
+While not strictly a dependency for any of the above program, an EVM Deployer
+run on a solidity source file builds it, deploy it and publish it on the Index
+in a single step, so greatly speeding up contract testing.
+Together with the contract caller, it makes interacting with a contract deployment
+not much different from interacting for example with a C binary saved
+at an environment-specific location, in this case at the contract address.

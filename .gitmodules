@@ -31,3 +31,9 @@
 [submodule "evm-gnupg"]
 	path = evm-gnupg
 	url = https://github.com/themartiancompany/evm-gnupg
+[submodule "evm-deployer"]
+	path = evm-deployer
+	url = https://github.com/themartiancompany/evm-deployer
+[submodule "solidity-compiler"]
+	path = solidity-compiler
+	url = https://github.com/themartiancompany/solidity-compiler
