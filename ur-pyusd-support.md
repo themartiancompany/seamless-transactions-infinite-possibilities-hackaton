@@ -26,5 +26,6 @@ purchase an application using a token they may be unfamiliar with
 requiring them to execute its public `approve` and `transferFrom`
 ERC-20 functions.
 
-The task has been completed, and the Ur contract available
-
+The task has been completed, and the kirsh application available
+for purchase on the new Ur contract with the PYUSD token is
+the decentralized Twitter.
