@@ -29,3 +29,5 @@ ERC-20 functions.
 The task has been completed, and the kirsh application available
 for purchase on the new Ur contract with the PYUSD token is
 the decentralized Twitter.
+
+https://gnosisscan.io/tx/0x4981a14c955c18c8420245f74992e5342886d30674fa0e1566835c6cbdfde796
