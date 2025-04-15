@@ -37,3 +37,6 @@
 [submodule "solidity-compiler"]
 	path = solidity-compiler
 	url = https://github.com/themartiancompany/solidity-compiler
+[submodule "crash-js"]
+	path = crash-js
+	url = https://github.com/themartiancompany/crash-js

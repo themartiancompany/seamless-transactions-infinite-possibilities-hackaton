@@ -9,6 +9,8 @@ All together, these applications make
 dapps development virtually the same as
 the development of any other computer application.
 
+## Run-time dependencies
+
 ### [Crash Bash](https://github.com/themartiancompany/crash-bash)
 
 I've written this application development Bash library a couple years
@@ -28,20 +30,17 @@ artifacts the program generates was respectively
 subject to and which had been readily and promptly
 made available.
 
+### [Crash JavaScript](https://github.com/themartiancompany/crash-js)
+
+Modeled after the Crash Bash library, it provides for JavaScript
+programs the same utilities Crash Bash provides for Bash
+programs.
+
 ### [LibEVM](https://github.com/themartiancompany/libevm)
 
 The EVM Library contains a set of useful functions to
 write native computer applications interacting with
 EVM blockchain networks.
-
-### [EVM Make](https://github.com/themartiancompany/evm-make)
-
-The EVM Make program is a build dependency for
-libEVM programs. While on single-networks deployments
-contract artifacts and sources can be easily managed
-manually, this tool becomes a necessity when a libEVM
-application handles many smart contract versions
-over many networks all at once.
 
 ### [Aspe](https://github.com/themartiancompany/aspe)
 
@@ -73,6 +72,11 @@ The EVMFS is the uncensorable, undeletable file system for EVM networks
 I've written in order to safely manage almost any kind of online
 binary resources.
 It is extensively used in all the applications reported in this page.
+
+I suppose it must be underlined the file system has its own dependency tree,
+which seems to me large enough not to see fit for the scope of this page.
+
+For further information about them consult the file system documentation.
 
 ### [Ethereum Virtual Machine Contracts' Source Index](https://github.com/themartiancompany/evm-contracts-source-index)
 
@@ -114,6 +118,22 @@ The EVM Transactions Tools are a dependency for the `evm-contract-deployer-get`
 program from the EVM Contract Tools, which is used to validate the Index provided
 deployent transaction in order to infer the contract deployer, whose
 self-published sources are the default Index source download target.
+
+### [Ethereum Virtual Machine Wallet](https://github.com/themartiancompany/evm-wallet)
+
+All libEVM programs, in particular those requiring calls authentication,
+import functions from the EVM Wallet libraries or call it directly.
+
+## Build-time and development dependencies
+
+### [Ethereum Virtual Machine Make](https://github.com/themartiancompany/evm-make)
+
+The EVM Make program is a build dependency for
+libEVM programs. While on single-networks deployments
+contract artifacts and sources can be easily managed
+manually, this tool becomes a necessity when a libEVM
+application handles many smart contract versions
+over many networks all at once.
 
 ### [Solidity Compiler](https://github.com/themartiancompany/solidity-compiler)
 
