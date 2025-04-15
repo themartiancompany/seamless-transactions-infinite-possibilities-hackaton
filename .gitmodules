@@ -28,3 +28,6 @@
 [submodule "crash-bash"]
 	path = crash-bash
 	url = https://github.com/themartiancompany/crash-bash
+[submodule "evm-gnupg"]
+	path = evm-gnupg
+	url = https://github.com/themartiancompany/evm-gnupg
