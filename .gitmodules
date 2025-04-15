@@ -16,3 +16,15 @@
 [submodule "evm-openpgp-keyserver"]
 	path = evm-openpgp-keyserver
 	url = https://github.com/themartiancompany/evm-openpgp-keyserver
+[submodule "libevm"]
+	path = libevm
+	url = https://github.com/themartiancompany/libevm
+[submodule "aspe"]
+	path = aspe
+	url = https://github.com/themartiancompany/aspe
+[submodule "pub"]
+	path = pub
+	url = https://github.com/themartiancompany/pub
+[submodule "crash-bash"]
+	path = crash-bash
+	url = https://github.com/themartiancompany/crash-bash
