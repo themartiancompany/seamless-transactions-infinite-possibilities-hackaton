@@ -3,7 +3,7 @@
 On this page I group and shortly discuss some of
 the direct or indirect software dependencies
 I had to write in order to complete the main
-task.
+task and of which I am the main or the only author.
 
 ### [Crash Bash](https://github.com/themartiancompany/crash-bash)
 
@@ -23,6 +23,13 @@ physical security vulnerabilities and features the
 artifacts the program generates was respectively
 subject to and which had been readily and promptly
 made available.
+
+### [LibEVM](https://github.com/themartiancompany/libevm)
+
+The EVM Library contains a set of useful functions to
+write native computer applications interacting with
+EVM blockchain networks.
+of
 
 ### [Aspe](https://github.com/themartiancompany/aspe)
 
@@ -48,4 +55,3 @@ The
 
 ### [Ethereum Virtual Machine Transactions' Tools](https://github.com/themartiancompany/evm-transactions-tools)
 
-### [LibEVM](https://github.com/themartiancompany/libevm)
