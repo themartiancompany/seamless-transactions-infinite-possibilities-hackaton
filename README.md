@@ -44,6 +44,16 @@ I suppose I should specify I am the author of both the Ur and the EVMFS.
 I am including as submodule to this source repository the most of
 the softwares and products I had to edit/write altogether in order
 to have the task completed.
+It's many many projects actually but I'm including only the most
+important ones.
+For some of them some implementation and design documentation
+has been made available while all of the mentioned and most
+of my projects have in general have updated manual (`man`) pages
+one can seamlessly consult.
+
+For more information about them read
+[dependencies](
+  dependencies.md).
 
 While task per-se has been actually completed, still some details
 needs further adjustments which will be provided in the next
