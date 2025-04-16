@@ -4,7 +4,7 @@
      The Ur is a set of Solidity smart contracts,                |
      their networks' deployments and the native                  |
      client applications needed to interact with them.           |
-     with them.                                                  |
+                                                                 |
                                                                  |
                                                                  |
                                                                  |

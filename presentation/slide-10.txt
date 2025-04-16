@@ -1,14 +1,16 @@
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
-  What's the Ur?                                                 |
+  Ur safety: Malevolent RPCs                                     |
                                                                  |
-     The Ur derives its uncensorability from hosting             |
-     its applications' database on permissionless                |
-     Ethereum Virtual Machine compatible networks.               |
+     Protection from man-in-the-middle data tampering            |
+     is provided by mandating publishers to sign build           |
+     recipes with one of the public OpenPGP key associated       |
+     to their EOA identitifier and published on the              |
+     EVM OpenPGP Key Server.                                     |
                                                                  |
-     Developers can choose if to have applications' sources      |
-     and binary resources undeletable as well,                   |
-     thus publishing entirely uncensorable and undeletable       |
-     computer applications.                                      |
+     Like the Ur, the Key Server is a libEVM application         |
+     providing a public, permissionless, uncensorable            |
+     undeletable, distributed OpenPGP key server.                i
+                                                                 |
                                                                  |
                                                                  |
                                                                  |

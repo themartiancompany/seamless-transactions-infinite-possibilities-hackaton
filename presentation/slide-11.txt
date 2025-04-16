@@ -7,13 +7,13 @@
      to their EOA identitifier and published on the              |
      EVM OpenPGP Key Server.                                     |
                                                                  |
+     Like the Ur, the Key Server is a libEVM application         |
+     providing a public, permissionless, uncensorable            |
+     undeletable, distributed OpenPGP key server.                i
                                                                  |
-                                                                 |
-                                                                 |
-                                                                 |
-                                                                 |
-                                                                 |
-                                                                 |
+     Same protection is provided in the EVM Contracts            |
+     Source Index to ensure downloaded contracts'                |
+     sources integrity.                                          |
                                                                  |
                                                                  |
                                                                  |

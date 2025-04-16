@@ -1,7 +1,6 @@
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
   What's the Ur?                                                 |
                                                                  |
-                                                                 |
      The Ur derives its uncensorability from hosting             |
      its applications' database on permissionless                |
      Ethereum Virtual Machine compatible networks.               |
@@ -13,6 +12,7 @@
      Ethereum Virtual Machine File System (EVMFS)                |
      uniform resource identifiers (URI).                         |
                                                                  |
+     evmfs://<network>/<contract>/<namespace>/<address>          |
                                                                  |
                                                                  |
 _________________________________________________________________|

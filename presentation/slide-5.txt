@@ -1,10 +1,10 @@
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
   What's the Ur?                                                 |
                                                                  |
-                                                                 |
      The Ur derives its uncensorability from hosting             |
      its applications' database on permissionless                |
      Ethereum Virtual Machine compatible networks.               |
+                                                                 |
                                                                  |
                                                                  |
                                                                  |

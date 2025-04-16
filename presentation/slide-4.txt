@@ -1,7 +1,6 @@
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
   What's the Ur?                                                 |
                                                                  |
-                                                                 |
      The Ur is a set of Solidity smart contracts,                |
      their networks' deployments and the native                  |
      client applications needed to interact with them.           |
@@ -14,5 +13,6 @@
      Ur stands for 'User Repository', but it also a              |
      pun on the phrase 'you are', the 'Ur' city                  |
      and it has as well many more meanings.                      |
+                                                                 |
                                                                  |
 _________________________________________________________________|
