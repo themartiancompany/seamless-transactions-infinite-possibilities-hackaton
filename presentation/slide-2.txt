@@ -1,13 +1,15 @@
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+  What's the Ur?                                                 |
+                                                                 |
+     The Ur is a set of Solidity smart contracts,                |
+     their networks' deployments and the native                  |
+     client applications needed to interact with them.           |
+     with them.                                                  |
                                                                  |
                                                                  |
                                                                  |
                                                                  |
                                                                  |
-        "Seamless transactions, Infinite possibilites"           |
-          hackaton project:                                      |
-                                                                 |
-            PayPal USD stablecoin support in                     |
-            the Ur uncensorable application store                |
                                                                  |
                                                                  |
                                                                  |

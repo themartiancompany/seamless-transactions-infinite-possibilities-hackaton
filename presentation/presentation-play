@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+
+_play() {
+  local \
+    _starting_page="${1}" \
+    _quit
+  _quit="n"
+  page="${_starting_page}"
+  while [[ "${_quit}" == "n" ]]; do
+    clear
+    _slide="slide-${_page}.txt"
+    if [[ -e "${_slide}" ]]; then
+      cat \
+        "${_slide}"
+      read \
+        _key
+    else
+      _quit="y"
+    fi
+    if [[ "${_key}" == "p" ]]; then
+      _page="$(( \
+        "${_page}" - 1))"
+    fi
+    if [[ "${_key}" == "n" ]]; then
+      _page="$(( \
+        "${_page}" + 1))"
+    fi
+    if [[ "${_key}" == "q" ]]; then
+      _quit="y"
+    fi
+  done
+}
+
+if (( 0 < "$#" )); then
+  _page="${1}"
+else
+  _page=1
+fi
+
+_play \
+  "${_page}"

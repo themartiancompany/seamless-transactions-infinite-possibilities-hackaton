@@ -84,12 +84,18 @@ you watched the rest of the livestreams and followed me on X.
 
 Anyway, since I've produced like full 24 hours of video content
 in two weeks, I hope the jury will allow me to consider valid
-the presentation video I'm gonna publish in the next hours.
+the presentation video I'm gonna publish in the few days.
 
 Below, there's the stub Rick Roll I had uploaded whan I've
 joined the Hackaton.
 
 [![Project's Presentation video](project-presentation-video.gif)]("https://github.com/themartiancompany/seamless-transactions-infinite-possibilities-hackaton/blob/main/project-presentation-video.mp4")
+
+and here is a
+[trailer](
+  https://x.com/truocolo/status/1912311302430609574)
+for the actual presentation, which will be published
+on the 16th.
 
 ### Licenses
 

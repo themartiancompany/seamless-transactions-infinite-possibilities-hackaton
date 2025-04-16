@@ -1,0 +1,18 @@
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+  What's the Ur?                                                 |
+                                                                 |
+     The Ur is a set of Solidity smart contracts,                |
+     their networks' deployments and the native                  |
+     client applications needed to interact with them.           |
+     with them.                                                  |
+                                                                 |
+     Functionally, the Ur is the successor of the                |
+     Aur, the Arch User Repository, of which it                  |
+     constitutes a truly permissionless and uncensorable         |
+     extension.                                                  |
+                                                                 |
+                                                                 |
+                                                                 |
+                                                                 |
+                                                                 |
+_________________________________________________________________|
