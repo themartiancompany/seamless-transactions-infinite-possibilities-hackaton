@@ -1,0 +1,18 @@
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+  What's the Ur?                                                 |
+                                                                 |
+                                                                 |
+     The Ur derives its uncensorability from hosting             |
+     its applications' database on permissionless                |
+     Ethereum Virtual Machine compatible networks.               |
+                                                                 |
+     Developers can choose if to have applications' sources      |
+     and binary resources undeletable as well,                   |
+     thus publishing entirely uncensorable and undeletable       |
+     computer applications.                                      |
+                                                                 |
+     The Ur is the default application store of                  |
+     the Life and the DogeOS operating systems                   |
+     and application layer / runtime environments.               |
+                                                                 |
+_________________________________________________________________|

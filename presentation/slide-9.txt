@@ -1,0 +1,18 @@
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+  Ur currencies support                                          |
+                                                                 |
+                                                                 |
+     Version 1.0 of the Ur application store's contract          |
+     allows publishers to offer for sale applications            |
+     in exchange for network gas.                                |
+                                                                 |
+     So in practice up to now users have been able to            |
+     purchase applications only in exchange for                  |
+     dollars (on Gnosis) and Dogecoin (on Dogechain).            |
+                                                                 |
+     Version 1.1, written and released for this                  |
+     hackaton adds support for selling applications              |
+     using any ERC-20 standard compliant currency,               |
+     in particular the PayPal USD stablecoin token.              |
+                                                                 |
+_________________________________________________________________|
