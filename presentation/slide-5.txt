@@ -1,14 +1,14 @@
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+  What's the Ur?                                                 |
+                                                                 |
+                                                                 |
+     The Ur derives its uncensorability from hosting             |
+     its applications' database on permissionless                |
+     Ethereum Virtual Machine compatible networks.               |
                                                                  |
                                                                  |
                                                                  |
                                                                  |
-        "Seamless transactions, Infinite possibilites"           |
-          hackaton project:                                      |
-                                                                 |
-                                                                 |
-            PayPal USD stablecoin support in                     |
-            the Ur uncensorable application store                |
                                                                  |
                                                                  |
                                                                  |

@@ -2,16 +2,16 @@
   What's the Ur?                                                 |
                                                                  |
                                                                  |
-     The Ur is a set of Solidity smart contracts,                |
-     their networks' deployments and the native                  |
-     client applications needed to interact with them.           |
+     The Ur derives its uncensorability from hosting             |
+     its applications' database on permissionless                |
+     Ethereum Virtual Machine compatible networks.               |
                                                                  |
-     Functionally, the Ur is the successor of the                |
-     Aur, the Arch User Repository, of which it                  |
-     constitutes a truly permissionless and uncensorable         |
-     extension.                                                  |
-                                                                 |
-                                                                 |
+     Applications' build scripts, called 'Universal              |
+     recipes', because seamlessly compatible with multiple       |
+     operating systems at once, are undeletable as well,         |
+     are made available to the native clients as                 |
+     Ethereum Virtual Machine File System (EVMFS)                |
+     uniform resource identifiers (URI).                         |
                                                                  |
                                                                  |
                                                                  |
