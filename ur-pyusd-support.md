@@ -26,8 +26,14 @@ purchase an application using a token they may be unfamiliar with
 requiring them to execute its public `approve` and `transferFrom`
 ERC-20 functions.
 
-The task has been completed, and the kirsh application available
+The task per-se has been
+[completed in time](
+  https://gnosisscan.io/tx/0x4981a14c955c18c8420245f74992e5342886d30674fa0e1566835c6cbdfde796),
+and the kirsh application available
 for purchase on the new Ur contract with the PYUSD token is
 the decentralized Twitter.
 
-https://gnosisscan.io/tx/0x4981a14c955c18c8420245f74992e5342886d30674fa0e1566835c6cbdfde796
+The Ur video presentation is still a work in progress as the project
+is quite complex and it is the fruit of an almost year-long work,
+so it will probably be published on the 16th of April on X and
+linked on this repository.
