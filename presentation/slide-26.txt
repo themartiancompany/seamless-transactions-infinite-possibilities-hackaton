@@ -1,18 +1,18 @@
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
-  Ur currencies support                                          |
+  Resources and contacts                                         |
                                                                  |
-     Version 1.0 of the Ur application store's contract          |
-     allows publishers to offer for sale applications            |
-     in exchange for network gas.                                |
+     Ur HTTP Mirrors are currently published on                  |
+     The Martian Company's Github.                               |
                                                                  |
+     My contacts are:                                            |
                                                                  |
+       dvorak@0x6E5163fC4BFc1511Dbe06bB605cc14a3e462332b         |
+       pellegrinoprevete@gmail.com                               |
+       x.com/truocolo                                            |
                                                                  |
+     The HIP project will have at some point an home on          |
                                                                  |
-                                                                 |
-                                                                 |
-                                                                 |
-                                                                 |
-                                                                 |
+       https://humaninstrumentalityproject.org                   |
                                                                  |
                                                                  |
 _________________________________________________________________|

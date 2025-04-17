@@ -1,9 +1,9 @@
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
-  Ur currencies support                                          |
+  Life and DogeOS                                                |
                                                                  |
-     Version 1.0 of the Ur application store's contract          |
-     allows publishers to offer for sale applications            |
-     in exchange for network gas.                                |
+     Life and its extension, DogeOS, are two operating           |
+     systems and run-time environments / app layers              |
+     which do use the Ur as their default package manager.       |
                                                                  |
                                                                  |
                                                                  |

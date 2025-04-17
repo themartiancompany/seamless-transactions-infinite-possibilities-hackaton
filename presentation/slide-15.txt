@@ -1,10 +1,10 @@
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
-  Ur currencies support                                          |
+  Ur applications                                                |
                                                                  |
-     Version 1.0 of the Ur application store's contract          |
-     allows publishers to offer for sale applications            |
-     in exchange for network gas.                                |
-                                                                 |
+     To prove Ur uncensorability, many historically              |
+     significant videogame titles have already been              |
+     made cross-platform compatible and available                |
+     on the app store.                                           |
                                                                  |
                                                                  |
                                                                  |

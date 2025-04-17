@@ -5,9 +5,9 @@
      allows publishers to offer for sale applications            |
      in exchange for network gas.                                |
                                                                  |
-                                                                 |
-                                                                 |
-                                                                 |
+     So in practice up to now users have been able to            |
+     purchase applications only in exchange for                  |
+     dollars (on Gnosis) and Dogecoin (on Dogechain).            |
                                                                  |
                                                                  |
                                                                  |
