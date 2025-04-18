@@ -146,3 +146,35 @@ and debug `evm-contract-deployer-get`.
 On this session I write some more of the hackaton presentation document.
 The final document will probably be ready at the end of next
 train and the actual presentation will take place when I'll reach home.
+
+[Part 2](
+  https://x.com/truocolo/status/1912308379332026529)
+
+On this stream we further discuss components for the out-of-time hackaton
+video presentation and operatively document the Ur contracts.
+
+### 2025 April 16
+
+[Part 1](
+  https://x.com/truocolo/status/1912421761330585731)
+
+On this session we write the actual hackaton video presentation slides
+while I try not to be no more than half an hour late at work.
+
+[Part 2](
+  https://x.com/truocolo/status/1912536474399932442)
+
+On this session we write more hackaton video presentation slides.
+
+### 2025 April 17
+
+[Part 1](
+  https://x.com/truocolo/status/1912954922154229847)
+
+This stream is just me talking and I am including it
+just for completeness.
+
+[Part 2](
+  https://x.com/truocolo/status/1912992189920985526)
+
+On this stream I do finish writing the presentation.
