@@ -55,7 +55,7 @@ For more information about them read
 [dependencies](
   dependencies.md).
 
-While task per-se has been actually completed, still some details
+While the task per-se has been actually completed, still some details
 needs further adjustments which will be provided in the next
 days, such as the
 [EVM Wallet](
