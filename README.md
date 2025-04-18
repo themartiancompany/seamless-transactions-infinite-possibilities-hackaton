@@ -92,7 +92,13 @@ valid the following out-of-time presentation video.
 Here is the
 [trailer](
   https://x.com/truocolo/status/1912311302430609574)
-I made a couple days before the actual presentation.
+I made a couple days before the actual presentation
+and here is the
+[low-resolution version](
+  project-presentation-video.mp4)
+of the
+presentation hosted on the repository itself to
+avoid breaking the link I've sent to StackUp.
 
 ### Licenses
 
