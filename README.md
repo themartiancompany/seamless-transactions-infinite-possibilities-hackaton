@@ -87,7 +87,7 @@ in two weeks and I'm presenting this software for the kirsh time
 after many years of development, I hope the jury will still consider
 valid the following out-of-time presentation video.
 
-[![Project's Presentation video](project-presentation-video-thumb.png)]("https://x.com/truocolo/status/1913014194074460209")
+[![Project's Presentation video](https://x.com/truocolo/status/1913014194074460209)]("https://x.com/truocolo/status/1913014194074460209")
 
 Here is the
 [trailer](
