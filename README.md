@@ -100,6 +100,12 @@ of the
 presentation hosted on the repository itself to
 avoid breaking the link I've sent to StackUp.
 
+The application which is sold for PayPal USD (`PYUSD`)
+as an example of the code working is the
+[Twitter](
+  https://github.com/themartiancompany/twitter)
+application.
+
 ### Licenses
 
 All the projects I do write are released by Pellegrino Prevete
